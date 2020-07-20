@@ -1,4 +1,20 @@
-# Kanban
+# CogentX360 Labs
+
+## Kanban Board
+
+**Note:** Base code from Fireship-io Pro Course on Angular and Firebase
+
+**course:** Fireship.io - Angular Firebase Project Course <https://fireship.io/courses/angular/>
+
+**docs:** <https://github.com/Cogentx/cx-fs-docs-ngfb>
+
+**code:** <https://github.com/over40dev/edu-pwa-angular-firebase>
+
+**branches:**
+
+- master
+- publish
+- draft
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
